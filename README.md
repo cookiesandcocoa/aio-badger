@@ -27,6 +27,7 @@ These are all the secret badges I have found so far
 |The Silverwind Restaurant |a2pUh0000007gk5IAA |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/silverwind_restaurant_with_blue_shadow_badge.png |
 |The Paul Revere Badge |a2pUh0000007gQjIAI |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/paul_revere_badge_pin.png |
 |Tom for Mayor Button! |a2pUh0000007govIAA |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/tom_for_mayor_button_badge.png |
+|The Pizza Badge |a2pUh0000007gTxIAI |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/pizza_slice.png |
+|The Float Badge |a2pUh0000007gLtIAI |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/float_blue_shadow_badge.png |
 | | | |
-
 
