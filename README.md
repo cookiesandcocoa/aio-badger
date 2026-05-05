@@ -30,6 +30,7 @@ These are all the secret badges I have found so far
 |The Pizza Badge |a2pUh0000007gTxIAI |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/pizza_slice.png |
 |The Float Badge |a2pUh0000007gLtIAI |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/float_blue_shadow_badge.png |
 |Honorary Scotsman |a2pUh0000007giTIAQ |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/scottish_badge.png |
-| | | |
+|Science Whiz |a2pUh0000007gfFIAQ |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/science_badge.png |
+|Imaginaut! |a2pUh0000007h53IAA |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/imagination_station_enamel_pin.png |
 | | | |
 
