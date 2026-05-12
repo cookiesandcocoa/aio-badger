@@ -33,4 +33,5 @@ These are all the secret badges I have found so far
 |Science Whiz |a2pUh0000007gfFIAQ |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/science_badge.png |
 |Imaginaut! |a2pUh0000007h53IAA |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/imagination_station_enamel_pin.png |
 |Noir Badge |a2pUh0000007hEjIAI |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/noir_badge.png |
+|Lab Savy! |a2pUh0000007h9tIAA |https://d23sy43gbewnpt.cloudfront.net/public/images/badge/microscope_with_shadow_badge.png |
 | | | |
